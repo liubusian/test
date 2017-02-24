@@ -26,5 +26,7 @@ public class TestDemo {
 	public void innerTest(){
 		
 		InnerClass i = new InnerClass();
+		
+		InnerClass
 	}
 }
